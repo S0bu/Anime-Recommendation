@@ -22,3 +22,4 @@ while a:  #loop to continue if the entered genre doesn't exist or even entered i
     else:
         print("\nThis category doesn't exist. Please choose a valid category:\n")
         a=1
+input("Press enter to exit ;)")
